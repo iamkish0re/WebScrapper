@@ -1128,3 +1128,66 @@
 2022-05-14 19:56:06,319 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
 2022-05-14 19:56:06,319 | DEBUG: parse_part from 7 to 8 (to 7 in part parser)
 2022-05-14 19:56:06,319 | DEBUG: diff parser end
+2022-05-14 22:22:18,796 | DEBUG: diff parser start
+2022-05-14 22:22:18,796 | DEBUG: line_lengths old: 8; new: 1
+2022-05-14 22:22:18,796 | DEBUG: -> code[replace] old[1:8] new[1:1]
+2022-05-14 22:22:18,796 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:22:18,796 | DEBUG: diff parser end
+2022-05-14 22:30:30,966 | DEBUG: diff parser start
+2022-05-14 22:30:30,966 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 22:30:30,966 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 22:30:30,966 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:30:30,966 | DEBUG: diff parser end
+2022-05-14 22:30:31,579 | DEBUG: diff parser start
+2022-05-14 22:30:31,579 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 22:30:31,579 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 22:30:31,579 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:30:31,579 | DEBUG: diff parser end
+2022-05-14 22:30:33,430 | DEBUG: diff parser start
+2022-05-14 22:30:33,430 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 22:30:33,430 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 22:30:33,430 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:30:33,430 | DEBUG: diff parser end
+2022-05-14 22:30:34,172 | DEBUG: diff parser start
+2022-05-14 22:30:34,172 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 22:30:34,172 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 22:30:34,173 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:30:34,173 | DEBUG: diff parser end
+2022-05-14 22:34:38,367 | DEBUG: diff parser start
+2022-05-14 22:34:38,367 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 22:34:38,367 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 22:34:38,377 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:34:38,377 | DEBUG: diff parser end
+2022-05-14 22:35:02,898 | DEBUG: diff parser start
+2022-05-14 22:35:02,898 | DEBUG: line_lengths old: 1; new: 7
+2022-05-14 22:35:02,898 | DEBUG: -> code[replace] old[1:1] new[1:7]
+2022-05-14 22:35:02,904 | DEBUG: parse_part from 1 to 7 (to 6 in part parser)
+2022-05-14 22:35:02,905 | DEBUG: diff parser end
+2022-05-14 22:35:19,091 | DEBUG: diff parser start
+2022-05-14 22:35:19,091 | DEBUG: line_lengths old: 7; new: 10
+2022-05-14 22:35:19,091 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 22:35:19,098 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 22:35:19,098 | DEBUG: -> code[replace] old[7:7] new[7:10]
+2022-05-14 22:35:19,099 | DEBUG: parse_part from 7 to 7 (to 7 in part parser)
+2022-05-14 22:35:19,099 | DEBUG: parse_part from 8 to 10 (to 9 in part parser)
+2022-05-14 22:35:19,099 | DEBUG: diff parser end
+2022-05-14 22:42:49,143 | DEBUG: diff parser start
+2022-05-14 22:42:49,143 | DEBUG: line_lengths old: 10; new: 1
+2022-05-14 22:42:49,143 | DEBUG: -> code[replace] old[1:10] new[1:1]
+2022-05-14 22:42:49,143 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:42:49,143 | DEBUG: diff parser end
+2022-05-14 22:43:41,318 | DEBUG: diff parser start
+2022-05-14 22:43:41,318 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 22:43:41,318 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 22:43:41,318 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:43:41,318 | DEBUG: diff parser end
+2022-05-14 22:43:52,620 | DEBUG: diff parser start
+2022-05-14 22:43:52,620 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 22:43:52,620 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 22:43:52,620 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 22:43:52,620 | DEBUG: diff parser end
+2022-05-14 22:49:57,205 | DEBUG: diff parser start
+2022-05-14 22:49:57,205 | DEBUG: line_lengths old: 1; new: 8
+2022-05-14 22:49:57,205 | DEBUG: -> code[replace] old[1:1] new[1:8]
+2022-05-14 22:49:57,205 | DEBUG: parse_part from 1 to 8 (to 7 in part parser)
+2022-05-14 22:49:57,205 | DEBUG: diff parser end
