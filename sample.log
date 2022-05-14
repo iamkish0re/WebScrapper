@@ -409,3 +409,722 @@
 2022-05-14 15:28:48,831 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19100&limit=100 HTTP/1.1" 200 None
 2022-05-14 15:28:56,766 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
 2022-05-14 15:28:58,058 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:29:04,457 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:29:05,741 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:29:13,812 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:29:14,953 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:29:21,994 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:29:23,130 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:29:29,450 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:29:30,726 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:29:38,875 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:29:40,023 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19700&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:29:46,373 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:29:47,518 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19800&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:29:54,040 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:29:55,300 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=19900&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:02,954 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:04,198 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20000&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:10,324 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:11,492 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:17,251 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:18,535 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:26,564 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:27,665 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:33,440 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:34,617 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:41,283 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:42,325 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:49,730 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:50,906 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:30:57,479 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:30:58,688 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20700&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:31:05,320 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:31:06,561 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20800&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:31:14,619 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:31:15,752 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=20900&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:31:22,356 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:31:23,304 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21000&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:31:30,894 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:31:33,196 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:31:39,804 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:31:40,973 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:31:46,861 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:31:48,968 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:31:55,083 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:31:56,232 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:02,335 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:32:03,504 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:10,130 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:32:11,394 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:17,987 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:32:19,919 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21700&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:27,011 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:32:28,182 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21800&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:34,604 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:32:35,867 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=21900&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:43,337 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:32:44,474 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22000&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:51,062 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:32:52,239 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:32:58,879 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:00,040 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:05,894 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:07,059 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:13,732 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:14,896 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:20,963 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:22,152 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:28,030 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:29,219 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:35,321 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:36,587 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22700&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:43,714 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:45,007 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22800&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:51,080 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:33:52,459 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=22900&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:33:59,028 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:00,142 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23000&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:34:06,762 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:07,924 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:34:14,767 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:15,911 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:34:22,180 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:23,802 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:34:30,202 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:31,376 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:34:39,824 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:40,965 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:34:47,080 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:48,163 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:34:54,552 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:34:55,523 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23700&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:35:01,454 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:35:02,446 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23800&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:35:07,668 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:35:08,767 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=23900&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:35:16,014 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:35:17,248 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=24000&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:35:22,572 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:35:23,755 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=24100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:35:29,320 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:35:30,559 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=24200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:35:46,376 | DEBUG: diff parser start
+2022-05-14 15:35:46,376 | DEBUG: line_lengths old: 2; new: 1
+2022-05-14 15:35:46,376 | DEBUG: -> code[replace] old[1:2] new[1:1]
+2022-05-14 15:35:46,376 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 15:35:46,384 | DEBUG: diff parser end
+2022-05-14 15:35:46,503 | DEBUG: pickle loaded: C:\Users\kisho\anaconda3\lib\typing.py
+2022-05-14 15:35:46,534 | DEBUG: pickle loaded: C:\Users\kisho\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-05-14 15:48:28,574 | INFO: -------------- Scrapping for : Data+Scientist Started --------------------------
+2022-05-14 15:48:28,590 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:48:29,958 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:48:37,474 | INFO: -------------- Scrapping for : Data+Scientist Started --------------------------
+2022-05-14 15:48:37,474 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:48:39,663 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:50:04,417 | INFO: -------------- Scrapping for : Data+Scientist Started --------------------------
+2022-05-14 15:50:04,428 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:05,585 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=0&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:11,204 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:12,455 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:17,707 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:19,009 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=2000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:24,640 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:25,761 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=3000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:31,352 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:33,441 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=4000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:38,729 | INFO: -------------- Scrapping for : Data+Scientist Completed -------------------------
+2022-05-14 15:50:38,729 | INFO: -------------- Scrapping for : full+stack+developer Started --------------------------
+2022-05-14 15:50:38,737 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:39,995 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=0&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:45,605 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:46,963 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:52,515 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:50:53,712 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=2000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:50:59,198 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:51:00,378 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=3000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:51:05,902 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:51:07,230 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=4000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:51:13,904 | INFO: -------------- Scrapping for : full+stack+developer Completed -------------------------
+2022-05-14 15:51:13,904 | INFO: -------------- Scrapping for : big+data+engineer Started --------------------------
+2022-05-14 15:51:13,904 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:51:15,117 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=0&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:51:20,699 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:51:21,871 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:51:27,161 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:51:28,334 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=2000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:52:09,219 | INFO: -------------- Scrapping for : Data+Scientist Started --------------------------
+2022-05-14 15:52:09,230 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:52:10,523 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=0&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:52:20,724 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:52:21,996 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:52:27,851 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:52:29,261 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=2000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:52:34,958 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:52:36,114 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=3000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:52:41,702 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:52:42,983 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=4000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:52:48,551 | INFO: Gathered 549 jobs so far ...
+2022-05-14 15:52:48,551 | INFO: -------------- Scrapping for : Data+Scientist Completed -------------------------
+2022-05-14 15:52:48,551 | INFO: -------------- Scrapping for : full+stack+developer Started --------------------------
+2022-05-14 15:52:48,551 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:52:51,283 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=0&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:52:58,026 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:52:59,151 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1000&limit=1000 HTTP/1.1" 200 None
+2022-05-14 15:56:35,274 | INFO: -------------- Scrapping for : Data+Scientist Started --------------------------
+2022-05-14 15:56:35,278 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:56:36,524 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:56:42,173 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:56:43,314 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:56:48,888 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:56:50,170 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:56:55,780 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:56:56,937 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:02,521 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:03,890 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:09,512 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:13,135 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:20,279 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:21,510 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:27,928 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:29,317 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:35,655 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:36,691 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:43,041 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:44,247 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:49,871 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:51,097 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:57:56,379 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:57:57,662 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:03,277 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:04,419 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:09,699 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:10,969 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:18,476 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:19,674 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:25,781 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:26,907 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:32,916 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:34,119 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:41,427 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:43,536 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:48,790 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:49,887 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:58:55,158 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:58:56,344 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=Data+Scientist&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:01,910 | INFO: Gathered 1276 jobs so far ...
+2022-05-14 15:59:01,910 | INFO: -------------- Scrapping for : Data+Scientist Completed -------------------------
+2022-05-14 15:59:01,910 | INFO: -------------- Scrapping for : full+stack+developer Started --------------------------
+2022-05-14 15:59:01,910 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:03,308 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:08,875 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:10,076 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:15,660 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:16,816 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:22,397 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:23,688 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:29,276 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:30,752 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:36,339 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:37,605 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:43,215 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:44,362 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 15:59:49,891 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 15:59:52,454 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:00,097 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:01,262 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:07,878 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:09,241 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:15,681 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:16,822 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:24,070 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:25,179 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:31,118 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:33,311 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:39,412 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:40,682 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:46,276 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:48,269 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:00:55,072 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:00:56,254 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:02,347 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:03,518 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:09,616 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:10,889 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:17,283 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:19,522 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:25,829 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:27,079 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=full+stack+developer&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:34,015 | INFO: Gathered 1909 jobs so far ...
+2022-05-14 16:01:34,015 | INFO: -------------- Scrapping for : full+stack+developer Completed -------------------------
+2022-05-14 16:01:34,015 | INFO: -------------- Scrapping for : big+data+engineer Started --------------------------
+2022-05-14 16:01:34,015 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:35,265 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:41,877 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:43,102 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:49,667 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:50,941 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:01:57,337 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:01:58,511 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:02:05,921 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:02:07,322 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:02:13,744 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:02:15,091 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:02:21,726 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:02:22,977 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:02:29,687 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:02:30,975 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:02:37,412 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:02:38,659 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:02:44,921 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:02:46,053 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:02:52,683 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:02:55,455 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:01,874 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:03,233 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:09,311 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:10,605 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:16,713 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:17,983 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:25,279 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:26,467 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:32,578 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:33,852 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:39,761 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:41,230 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:47,120 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:49,212 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:03:55,495 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:03:56,807 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:04:02,893 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:04:04,825 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=big+data+engineer&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:04:12,219 | INFO: Gathered 2484 jobs so far ...
+2022-05-14 16:04:12,219 | INFO: -------------- Scrapping for : big+data+engineer Completed -------------------------
+2022-05-14 16:04:12,219 | INFO: -------------- Scrapping for : software+architect Started --------------------------
+2022-05-14 16:04:12,219 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:04:14,606 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:04:21,307 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:04:22,692 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:04:33,696 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:04:35,085 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:04:41,672 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:04:42,976 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:04:49,573 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:04:50,860 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:04:57,473 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:04:58,743 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:05:05,452 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:05:07,752 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:05:14,560 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:05:15,843 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:05:22,456 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:05:23,855 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:05:30,846 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:05:32,129 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:05:38,556 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:05:39,919 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:05:45,989 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:05:47,280 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:05:54,605 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:05:55,769 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:01,889 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:03,155 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:09,435 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:10,725 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:16,853 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:18,111 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:24,423 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:25,679 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:32,012 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:33,255 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:39,569 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:40,723 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:48,671 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:49,943 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=software+architect&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:06:56,964 | INFO: Gathered 3104 jobs so far ...
+2022-05-14 16:06:56,964 | INFO: -------------- Scrapping for : software+architect Completed -------------------------
+2022-05-14 16:06:56,964 | INFO: -------------- Scrapping for : blockchain Started --------------------------
+2022-05-14 16:06:56,964 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:06:58,258 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:04,680 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:05,936 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:12,313 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:13,390 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:19,585 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:20,774 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:26,981 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:28,036 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:34,041 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:35,182 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:41,405 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:42,582 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:48,779 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:50,061 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:07:56,250 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:07:57,492 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:08:03,713 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:08:05,112 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:08:12,317 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:08:13,507 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:08:19,917 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:08:20,986 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:08:27,378 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:08:28,552 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:08:34,995 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:08:37,764 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:08:44,786 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:08:46,063 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:08:52,161 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:08:53,337 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:09:01,259 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:09:02,448 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:09:08,841 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:09:10,249 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:09:18,060 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:09:20,791 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:09:27,993 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:09:29,176 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=blockchain&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:09:36,682 | INFO: Gathered 4104 jobs so far ...
+2022-05-14 16:09:36,682 | INFO: -------------- Scrapping for : blockchain Completed -------------------------
+2022-05-14 16:09:36,682 | INFO: -------------- Scrapping for : devops+engineer Started --------------------------
+2022-05-14 16:09:36,682 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:09:37,785 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:09:44,208 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:09:45,457 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:09:53,516 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:09:54,785 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:01,163 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:02,376 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:08,753 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:10,051 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:16,575 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:17,823 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:24,332 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:25,600 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:32,011 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:33,187 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:39,580 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:40,873 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:47,266 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:49,161 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:10:55,994 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:10:57,253 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:11:03,836 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:11:05,032 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:11:11,418 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:11:12,708 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:11:19,313 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:11:23,566 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:11:29,858 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:11:31,959 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:11:38,782 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:11:39,954 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:11:46,098 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:11:47,318 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:11:53,717 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:11:55,719 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:12:02,415 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:12:03,711 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:12:12,599 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:12:13,746 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=devops+engineer&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:12:20,139 | INFO: Gathered 5055 jobs so far ...
+2022-05-14 16:12:20,139 | INFO: -------------- Scrapping for : devops+engineer Completed -------------------------
+2022-05-14 16:12:20,139 | INFO: -------------- Scrapping for : cloud+architect Started --------------------------
+2022-05-14 16:12:20,139 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:12:21,529 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:12:27,919 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:12:29,202 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:12:35,616 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:12:38,121 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:12:44,685 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:12:46,005 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:12:52,615 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:12:53,888 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:00,376 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:13:01,773 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:08,176 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:13:09,555 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:15,933 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:13:17,233 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:24,850 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:13:26,142 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:32,747 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:13:34,128 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:40,556 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:13:41,712 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:49,115 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:13:50,311 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:13:59,473 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:00,867 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:06,940 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:08,021 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:14,145 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:15,402 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:21,690 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:22,773 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:29,100 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:30,356 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:36,449 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:37,718 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:43,835 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:46,220 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:52,313 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:14:53,487 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=cloud+architect&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:14:59,602 | INFO: Gathered 5671 jobs so far ...
+2022-05-14 16:14:59,602 | INFO: -------------- Scrapping for : cloud+architect Completed -------------------------
+2022-05-14 16:14:59,602 | INFO: -------------- Scrapping for : artificial+intelligence Started --------------------------
+2022-05-14 16:14:59,602 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:00,857 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:15:07,266 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:08,540 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:15:15,138 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:16,429 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:15:22,945 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:24,214 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:15:30,658 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:31,989 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:15:38,397 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:39,666 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:15:46,048 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:47,364 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:15:54,762 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:15:56,064 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:02,458 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:04,763 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:12,789 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:14,089 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:20,509 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:21,864 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:28,088 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:29,232 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:35,323 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:36,603 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:42,697 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:43,785 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:49,702 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:50,848 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:16:56,980 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:16:57,970 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:04,269 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:17:05,383 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:11,461 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:17:12,761 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:20,045 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:17:21,152 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:27,253 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:17:28,532 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=artificial+intelligence&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:34,611 | INFO: Gathered 6261 jobs so far ...
+2022-05-14 16:17:34,611 | INFO: -------------- Scrapping for : artificial+intelligence Completed -------------------------
+2022-05-14 16:17:34,612 | INFO: -------------- Scrapping for : product+manager Started --------------------------
+2022-05-14 16:17:34,612 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:17:35,797 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=0&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:42,395 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:17:44,605 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:51,533 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:17:53,008 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:17:59,308 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:18:03,149 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:18:11,691 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:18:16,145 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:18:24,593 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:18:39,547 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:18:51,006 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:18:52,401 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:18:58,827 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:00,082 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:19:06,461 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:07,856 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:19:14,269 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:15,545 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:19:22,167 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:23,437 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1000&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:19:29,989 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:31,222 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1100&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:19:37,796 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:38,988 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1200&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:19:45,555 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:46,778 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1300&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:19:53,096 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:19:55,165 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1400&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:20:03,221 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:20:04,490 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1500&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:20:11,060 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:20:12,987 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1600&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:20:21,811 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:20:23,128 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1700&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:20:29,654 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:20:32,549 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1800&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:20:39,933 | DEBUG: Starting new HTTPS connection (1): in.indeed.com:443
+2022-05-14 16:20:41,782 | DEBUG: https://in.indeed.com:443 "GET /jobs?q=product+manager&start=1900&limit=100 HTTP/1.1" 200 None
+2022-05-14 16:20:49,635 | INFO: Gathered 7072 jobs so far ...
+2022-05-14 16:20:49,635 | INFO: -------------- Scrapping for : product+manager Completed -------------------------
+2022-05-14 16:25:51,912 | DEBUG: diff parser start
+2022-05-14 16:25:51,912 | DEBUG: line_lengths old: 1; new: 2
+2022-05-14 16:25:51,912 | DEBUG: -> code[replace] old[1:1] new[1:2]
+2022-05-14 16:25:51,912 | DEBUG: parse_part from 1 to 2 (to 1 in part parser)
+2022-05-14 16:25:51,912 | DEBUG: diff parser end
+2022-05-14 16:25:52,665 | DEBUG: pickle loaded: C:\Users\kisho\anaconda3\lib\site-packages\pandas\__init__.py
+2022-05-14 16:30:40,812 | DEBUG: diff parser start
+2022-05-14 16:30:40,812 | DEBUG: line_lengths old: 2; new: 1
+2022-05-14 16:30:40,812 | DEBUG: -> code[replace] old[1:2] new[1:1]
+2022-05-14 16:30:40,812 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 16:30:40,812 | DEBUG: diff parser end
+2022-05-14 16:30:41,697 | DEBUG: diff parser start
+2022-05-14 16:30:41,697 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 16:30:41,697 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 16:30:41,697 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 16:30:41,697 | DEBUG: diff parser end
+2022-05-14 16:30:42,118 | DEBUG: diff parser start
+2022-05-14 16:30:42,118 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 16:30:42,118 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 16:30:42,118 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 16:30:42,118 | DEBUG: diff parser end
+2022-05-14 16:30:49,636 | DEBUG: diff parser start
+2022-05-14 16:30:49,636 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 16:30:49,636 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 16:30:49,636 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 16:30:49,636 | DEBUG: diff parser end
+2022-05-14 16:31:01,666 | DEBUG: diff parser start
+2022-05-14 16:31:01,666 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 16:31:01,666 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 16:31:01,666 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 16:31:01,666 | DEBUG: diff parser end
+2022-05-14 16:31:48,071 | DEBUG: diff parser start
+2022-05-14 16:31:48,071 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 16:31:48,071 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 16:31:48,087 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 16:31:48,087 | DEBUG: diff parser end
+2022-05-14 16:32:20,746 | DEBUG: diff parser start
+2022-05-14 16:32:20,746 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 16:32:20,746 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 16:32:20,746 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 16:32:20,746 | DEBUG: diff parser end
+2022-05-14 16:36:52,788 | DEBUG: diff parser start
+2022-05-14 16:36:52,788 | DEBUG: line_lengths old: 1; new: 2
+2022-05-14 16:36:52,788 | DEBUG: -> code[replace] old[1:1] new[1:2]
+2022-05-14 16:36:52,788 | DEBUG: parse_part from 1 to 2 (to 1 in part parser)
+2022-05-14 16:36:52,788 | DEBUG: diff parser end
+2022-05-14 18:32:43,077 | DEBUG: diff parser start
+2022-05-14 18:32:43,077 | DEBUG: line_lengths old: 2; new: 3
+2022-05-14 18:32:43,077 | DEBUG: -> code[replace] old[1:2] new[1:3]
+2022-05-14 18:32:43,077 | DEBUG: parse_part from 1 to 3 (to 2 in part parser)
+2022-05-14 18:32:43,077 | DEBUG: diff parser end
+2022-05-14 18:37:38,739 | DEBUG: diff parser start
+2022-05-14 18:37:38,739 | DEBUG: line_lengths old: 3; new: 1
+2022-05-14 18:37:38,739 | DEBUG: -> code[replace] old[1:3] new[1:1]
+2022-05-14 18:37:38,739 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 18:37:38,739 | DEBUG: diff parser end
+2022-05-14 18:55:01,688 | DEBUG: diff parser start
+2022-05-14 18:55:01,688 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 18:55:01,688 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 18:55:01,688 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 18:55:01,688 | DEBUG: diff parser end
+2022-05-14 18:55:04,388 | DEBUG: diff parser start
+2022-05-14 18:55:04,388 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 18:55:04,388 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 18:55:04,388 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 18:55:04,388 | DEBUG: diff parser end
+2022-05-14 19:00:29,651 | DEBUG: diff parser start
+2022-05-14 19:00:29,651 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 19:00:29,651 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 19:00:29,651 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 19:00:29,651 | DEBUG: diff parser end
+2022-05-14 19:00:30,618 | DEBUG: diff parser start
+2022-05-14 19:00:30,618 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 19:00:30,618 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 19:00:30,618 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 19:00:30,618 | DEBUG: diff parser end
+2022-05-14 19:00:33,622 | DEBUG: diff parser start
+2022-05-14 19:00:33,622 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 19:00:33,622 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 19:00:33,622 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 19:00:33,622 | DEBUG: diff parser end
+2022-05-14 19:00:54,040 | DEBUG: diff parser start
+2022-05-14 19:00:54,040 | DEBUG: line_lengths old: 1; new: 1
+2022-05-14 19:00:54,040 | DEBUG: -> code[replace] old[1:1] new[1:1]
+2022-05-14 19:00:54,040 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 19:00:54,040 | DEBUG: diff parser end
+2022-05-14 19:02:06,573 | DEBUG: diff parser start
+2022-05-14 19:02:06,573 | DEBUG: line_lengths old: 1; new: 2
+2022-05-14 19:02:06,573 | DEBUG: -> code[replace] old[1:1] new[1:2]
+2022-05-14 19:02:06,573 | DEBUG: parse_part from 1 to 2 (to 1 in part parser)
+2022-05-14 19:02:06,573 | DEBUG: diff parser end
+2022-05-14 19:25:28,061 | DEBUG: diff parser start
+2022-05-14 19:25:28,061 | DEBUG: line_lengths old: 2; new: 2
+2022-05-14 19:25:28,061 | DEBUG: -> code[replace] old[1:2] new[1:2]
+2022-05-14 19:25:28,077 | DEBUG: parse_part from 1 to 2 (to 1 in part parser)
+2022-05-14 19:25:28,077 | DEBUG: diff parser end
+2022-05-14 19:30:04,826 | DEBUG: diff parser start
+2022-05-14 19:30:04,826 | DEBUG: line_lengths old: 2; new: 1
+2022-05-14 19:30:04,826 | DEBUG: -> code[replace] old[1:2] new[1:1]
+2022-05-14 19:30:04,826 | DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2022-05-14 19:30:04,826 | DEBUG: diff parser end
+2022-05-14 19:53:01,021 | DEBUG: diff parser start
+2022-05-14 19:53:01,021 | DEBUG: line_lengths old: 1; new: 7
+2022-05-14 19:53:01,021 | DEBUG: -> code[replace] old[1:1] new[1:7]
+2022-05-14 19:53:01,033 | DEBUG: parse_part from 1 to 7 (to 6 in part parser)
+2022-05-14 19:53:01,034 | DEBUG: diff parser end
+2022-05-14 19:53:03,813 | DEBUG: diff parser start
+2022-05-14 19:53:03,813 | DEBUG: line_lengths old: 7; new: 7
+2022-05-14 19:53:03,813 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:53:03,819 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:53:03,819 | DEBUG: -> code[replace] old[7:7] new[7:7]
+2022-05-14 19:53:03,819 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:53:03,819 | DEBUG: parse_part from 7 to 7 (to 6 in part parser)
+2022-05-14 19:53:03,819 | DEBUG: diff parser end
+2022-05-14 19:53:05,116 | DEBUG: diff parser start
+2022-05-14 19:53:05,116 | DEBUG: line_lengths old: 7; new: 7
+2022-05-14 19:53:05,116 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:53:05,116 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:53:05,116 | DEBUG: -> code[replace] old[7:7] new[7:7]
+2022-05-14 19:53:05,116 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:53:05,116 | DEBUG: parse_part from 7 to 7 (to 6 in part parser)
+2022-05-14 19:53:05,116 | DEBUG: diff parser end
+2022-05-14 19:53:05,349 | DEBUG: diff parser start
+2022-05-14 19:53:05,350 | DEBUG: line_lengths old: 7; new: 7
+2022-05-14 19:53:05,350 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:53:05,350 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:53:05,350 | DEBUG: -> code[replace] old[7:7] new[7:7]
+2022-05-14 19:53:05,350 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:53:05,351 | DEBUG: parse_part from 7 to 7 (to 6 in part parser)
+2022-05-14 19:53:05,351 | DEBUG: diff parser end
+2022-05-14 19:53:05,401 | DEBUG: diff parser start
+2022-05-14 19:53:05,401 | DEBUG: line_lengths old: 7; new: 7
+2022-05-14 19:53:05,401 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:53:05,401 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:53:05,402 | DEBUG: -> code[replace] old[7:7] new[7:7]
+2022-05-14 19:53:05,402 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:53:05,402 | DEBUG: parse_part from 7 to 7 (to 6 in part parser)
+2022-05-14 19:53:05,402 | DEBUG: diff parser end
+2022-05-14 19:53:11,993 | DEBUG: diff parser start
+2022-05-14 19:53:11,993 | DEBUG: line_lengths old: 7; new: 7
+2022-05-14 19:53:11,993 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:53:11,993 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:53:11,993 | DEBUG: -> code[replace] old[7:7] new[7:7]
+2022-05-14 19:53:11,996 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:53:11,996 | DEBUG: parse_part from 7 to 7 (to 6 in part parser)
+2022-05-14 19:53:11,996 | DEBUG: diff parser end
+2022-05-14 19:53:15,171 | DEBUG: diff parser start
+2022-05-14 19:53:15,171 | DEBUG: line_lengths old: 7; new: 7
+2022-05-14 19:53:15,171 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:53:15,171 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:53:15,171 | DEBUG: -> code[replace] old[7:7] new[7:7]
+2022-05-14 19:53:15,171 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:53:15,171 | DEBUG: parse_part from 7 to 7 (to 6 in part parser)
+2022-05-14 19:53:15,171 | DEBUG: diff parser end
+2022-05-14 19:54:11,862 | DEBUG: diff parser start
+2022-05-14 19:54:11,862 | DEBUG: line_lengths old: 7; new: 7
+2022-05-14 19:54:11,862 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:54:11,862 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:54:11,862 | DEBUG: -> code[replace] old[7:7] new[7:7]
+2022-05-14 19:54:11,862 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:54:11,862 | DEBUG: parse_part from 7 to 7 (to 6 in part parser)
+2022-05-14 19:54:11,862 | DEBUG: diff parser end
+2022-05-14 19:56:06,319 | DEBUG: diff parser start
+2022-05-14 19:56:06,319 | DEBUG: line_lengths old: 7; new: 8
+2022-05-14 19:56:06,319 | DEBUG: -> code[equal] old[1:6] new[1:6]
+2022-05-14 19:56:06,319 | DEBUG: copy old[1:6] new[1:6]
+2022-05-14 19:56:06,319 | DEBUG: -> code[replace] old[7:7] new[7:8]
+2022-05-14 19:56:06,319 | DEBUG: parse_part from 7 to 6 (to 6 in part parser)
+2022-05-14 19:56:06,319 | DEBUG: parse_part from 7 to 8 (to 7 in part parser)
+2022-05-14 19:56:06,319 | DEBUG: diff parser end
